@@ -1,0 +1,1 @@
+Este projeto é um teste simples de implementação do framework MVC, fazendo apenas uma calculadora de somas, testando apenas a implementação do framework, utilizando um JAVAX.SWING simples para visualização.
